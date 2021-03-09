@@ -5,3 +5,9 @@
 #cv-title {
     font-size: 30px;
 }
+
+.year {
+    float: right;
+    font-size: 16px;
+    font-weight: lighter;
+}
